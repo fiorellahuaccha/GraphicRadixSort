@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\fio\no\radixsortfinal\radixsort\main.cpp(231): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+d:\fio\no\radixsortfinal\radixsort\main.cpp(220): warning C4101: 'aux': variable local sin referencia
+  RadixSort.vcxproj -> D:\Fio\NO\RadixSortFinal\Debug\RadixSort.exe
